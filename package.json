@@ -2,14 +2,20 @@
   "name": "mylogger4js",
   "version": "1.0.0",
   "description": "console logger for js",
-  "main": "index.js",
+  "main": "dest/mylogger.min.js",
   "scripts": {
     "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lichangfeng/mylogger4js"
+  },
   "keywords": [
     "console",
-    "log"
+    "log",
+    "webview",
+    "wechat"
   ],
   "author": "lichangfeng",
   "license": "MIT",
