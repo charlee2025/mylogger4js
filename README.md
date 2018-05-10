@@ -1,2 +1,2 @@
-适用于微信、小程序、app webview调试使用
-在页面导入js即可，无需其他配置如：<script src="./dest/mylogger.min.js"></script>
+閫傜敤浜庡井淇°�佸皬绋嬪簭銆乤pp webview璋冭瘯浣跨敤
+鍦ㄩ〉闈㈠鍏s鍗冲彲锛屾棤闇�鍏朵粬閰嶇疆濡傦細<script src="./dest/mylogger.min.js"></script>
